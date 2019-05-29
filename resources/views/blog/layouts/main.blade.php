@@ -20,6 +20,7 @@
 
   <!-- Custom styles for this template -->
   <link href="{{asset('css/clean-blog.min.css')}}" rel="stylesheet">
+  <link href="{{asset('css/comment-box.css')}}" rel="stylesheet">
 
 </head>
 
